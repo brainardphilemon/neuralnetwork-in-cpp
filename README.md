@@ -33,15 +33,6 @@ The neural network consists of:
 - C++ compiler with C++11 support or higher (g++, clang++, etc.)
 - No additional libraries required
 
-### Compilation
-```bash
-g++ -o main.cpp -std=c++11
-```
-
-### Running the Program
-```bash
-./neural_network
-```
 
 ## Usage
 
